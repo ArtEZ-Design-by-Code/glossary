@@ -1,4 +1,30 @@
-[toc]
+# Table of contents
+
+- [Introduction](#introduction)
+  * [A note on style](#a-note-on-style)
+- [Comments](#comments)
+- [Variables](#variables)
+  * [Types](#types)
+    + [General](#general)
+    + [Processing-specific](#processing-specific)
+- [Scope](#scope)
+- [Functions](#functions)
+  * [General](#general-1)
+  * [Attributes](#attributes)
+  * [Returning values](#returning-values)
+- [Operators](#operators)
+  * [Arithmetic](#arithmetic)
+  * [Assignment](#assignment)
+  * [Unary](#unary)
+  * [Relational](#relational)
+  * [Logical](#logical)
+  * [Ternary](#ternary)
+- [Arrays](#arrays)
+- [Conditionals](#conditionals)
+- [Loops](#loops)
+- [Classes](#classes)
+- [Other](#other)
+- [Errors and Exceptions](#errors-and-exceptions)
 
 # Introduction
 
